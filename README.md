@@ -30,6 +30,20 @@ cd SpeakSmart
 ```
 pip install -r requirements.txt
 ```
+---
+
+## 📦 `requirements.txt`
+
+```txt
+SpeechRecognition
+googletrans==4.0.0rc1
+requests
+edge-tts
+playsound==1.2.2
+pyttsx3
+pyaudio
+```
+
 
 ### 3. Get Your OpenRouter API Key
 Sign up and get a free key from: https://openrouter.ai/
