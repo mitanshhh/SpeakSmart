@@ -49,8 +49,12 @@ pyaudio
 Sign up and get a free key from: https://openrouter.ai/
 
 ### 4. 🧪 Run the Assistant
+
+## ⚠️ Use Python 3.11 or 3.10
+
 ```
-python speaksmart.py
+py -3.11 speaksmart.py
+
 ```
 When prompted, speak your query or type it manually if the microphone doesn't capture clearly.
 
